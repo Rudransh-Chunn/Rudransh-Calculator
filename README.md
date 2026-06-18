@@ -1,2 +1,31 @@
-# Rudransh-Calculator
-A neon-themed scientific calculator built with Python Tkinter. It supports basic arithmetic, advanced functions like sin, cos, tan, log, ln, square root, powers, and constants (π, e). It includes a live calculation history panel and a modern dark UI with interactive button effects.
+# ⚡ Neon Scientific Calculator
+
+A modern desktop scientific calculator built using Python and Tkinter.  
+Designed with a neon dark UI, smooth interactions, and advanced math support.
+
+---
+
+## ✨ Features
+
+- ➕ Basic arithmetic: +, −, ×, ÷  
+- 🧮 Scientific functions: sin, cos, tan  
+- 📊 Logarithmic functions: log, ln  
+- 🔢 Power & roots: x², xʸ, √  
+- 🌟 Constants: π, e  
+- 📜 Live calculation history panel  
+- 🎯 Clear, percentage, and sign toggle (+/-)  
+- 💡 Neon-inspired dark UI design  
+- 🖱️ Hover + click animations for buttons  
+
+---
+
+## 🧠 Tech Stack
+
+- Python 3  
+- Tkinter (GUI framework)  
+- Math module  
+
+---
+
+
+
